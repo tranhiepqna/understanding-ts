@@ -1,4 +1,4 @@
-const userName = 'Max';
+const userName1 = 'Max';
 
 let age = 30;
 
@@ -10,4 +10,4 @@ age = 29;
 //     return result;
 // }
 
-const add = (a: number, b: number) => a + b; 
+const add1 = (a: number, b: number) => a + b; 
